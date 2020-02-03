@@ -1,36 +1,3 @@
-(* Content-type: application/vnd.wolfram.cdf.text *)
-
-(*** Wolfram CDF File ***)
-(* http://www.wolfram.com/cdf *)
-
-(* CreatedBy='Mathematica 12.0' *)
-
-(***************************************************************************)
-(*                                                                         *)
-(*                                                                         *)
-(*  Under the Wolfram FreeCDF terms of use, this file and its content are  *)
-(*  bound by the Creative Commons BY-SA Attribution-ShareAlike license.    *)
-(*                                                                         *)
-(*        For additional information concerning CDF licensing, see:        *)
-(*                                                                         *)
-(*         www.wolfram.com/cdf/adopting-cdf/licensing-options.html         *)
-(*                                                                         *)
-(*                                                                         *)
-(***************************************************************************)
-
-(*CacheID: 234*)
-(* Internal cache information:
-NotebookFileLineBreakTest
-NotebookFileLineBreakTest
-NotebookDataPosition[      1088,         20]
-NotebookDataLength[      5473,        171]
-NotebookOptionsPosition[      5411,        157]
-NotebookOutlinePosition[      6438,        186]
-CellTagsIndexPosition[      6395,        183]
-WindowTitle->Beat Maker v1.0
-WindowFrame->ModelessDialog*)
-
-(* Beginning of Notebook Content *)
 Notebook[{
 Cell[BoxData[
  TagBox[GridBox[{
@@ -174,21 +141,3 @@ CellContext->"Global`",
 FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
 StyleDefinitions->"Dialog.nb"
 ]
-(* End of Notebook Content *)
-
-(* Internal cache information *)
-(*CellTagsOutline
-CellTagsIndex->{}
-*)
-(*CellTagsIndex
-CellTagsIndex->{}
-*)
-(*NotebookFileOutline
-Notebook[{
-Cell[1525, 34, 3882, 121, 633, InheritFromParent,ExpressionUUID->"ca05aab9-70ea-48ab-89b2-249abec38ea0"]
-}
-]
-*)
-
-(* End of internal cache information *)
-(* NotebookSignature 9xDcvRUOuxeHNBwRfJNLxoYO *)
